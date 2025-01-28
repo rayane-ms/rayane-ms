@@ -2,7 +2,6 @@
 
 - 🌱 Estudando SQL
 - 👯 Buscando oportunidade profissional
-- 📫 Contatos na Bio
 - ⚡ Dev Junior
 
 <div>
