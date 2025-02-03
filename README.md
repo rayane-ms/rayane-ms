@@ -1,6 +1,6 @@
 ## Oie! Eu sou a Rayane Silva 💻
 
-- 🌱 Estudando SASS
+- 🌱 Estudando NodeJS
 - 👯 Freelancer
 - ⚡ Front-End Dev
 
